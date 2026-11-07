@@ -4,8 +4,8 @@ export const ASPIRASI_URL = '#contact';
 
 export const hero = {
   chip: 'BADAN EKSEKUTIF MAHASISWA FMIPA UNNES 2026',
-  title: 'Kabinet',
-  highlight: 'Gema Restorasi 87',
+  title: 'Kabinet Gema',
+  highlight: 'Restorasi 87',
   quote: 'Bersama Membangun, Bersama Berprestasi',
   description: 'Kabinet Gema Restorasi 87 hadir sebagai ruang kolaborasi untuk menguatkan keilmuan, memperjuangkan aspirasi, dan menghadirkan kebermanfaatan bagi seluruh civitas akademika FMIPA UNNES.',
   photoLabel: 'FUNGSIONARIS RESMI 2026',
